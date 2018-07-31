@@ -1,0 +1,58 @@
+body {
+    background: #dfdddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header {
+    color: white;
+    background: #4aaaa5;
+    position: relative;
+    top: 0px;
+    left: 40;
+    padding: 6px;
+    font-size: 40px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.bio-box {
+    margin-top: 20px;
+}
+
+.bio-head {
+    color:  #4aaaa5;
+    font-size: 40px;
+}
+
+.bio-image {
+    position: relative;
+    left: -10px;
+    float: left;
+    margin: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+.portfolio-box {
+    background: white;
+}
+
+.port-box {
+    color: #4aaaa5;
+}
+
+.card-deck {
+    margin: 20px;
+}
+
+.port-card {
+    padding: 20px;
+}
+
+.contact-box {
+    background: white;
+    /* margin: 20px; */
+}
+
+.footer {
+    color: #777777;
+}
